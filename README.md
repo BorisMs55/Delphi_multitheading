@@ -1,1 +1,1 @@
-# Delphi: thread, treeview, paintbox, canvas.draw, thumbnail
+# Delphi: thread, treeview, paintbox, canvas.draw, thumbnail, TEvent
